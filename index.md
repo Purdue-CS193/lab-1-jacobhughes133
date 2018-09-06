@@ -1,4 +1,10 @@
-## Welcome to the GitHub Pages of Jacob
+## Jacob Hughes's First CS193 Lab
+
+- My Favorite Things about CS193
+  - The class is student run
+  - The workload is light compared to more intense classes
+  - The class is designed to help with the little things that people can forget about
+  - I only have the lecture or lab once a week
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
